@@ -1,0 +1,3 @@
+In the Tkinter main GD file. The GUI code is present. 
+Basically the code will create a simple GUI and that GUI will have some buttons and the functionality of those buttons is to read a image file and check how many number of person present in the frame. Tat means whether it is male or female or how many male/female is present in the frame.
+Other button is used to open a webcam and then from live camera our gender detection program will count the male and female in the frame.
